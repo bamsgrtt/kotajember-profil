@@ -40,6 +40,7 @@ nav ul {
     display: flex;
     gap: 2rem;
     padding-inline: 4rem;
+    justify-content: center;
 }
 
 nav li {
